@@ -21,14 +21,10 @@ namespace Entidades
         {
 
             this.PlataDisponible = plataDisponible;
+            this.listCompras = null; ;
         }
 
-        public Cliente(string nombre, string apellido, long telefono, DateTime fechaNacimiento,
-            float plataDisponible, List<Venta> productosComprados)
-            : this(nombre, apellido, telefono, fechaNacimiento, plataDisponible)
-        {
-            ProductosComprados = productosComprados;
-        }
+        
 
         public override string Mostrar()
         {

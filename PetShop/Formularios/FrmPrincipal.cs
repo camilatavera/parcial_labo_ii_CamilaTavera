@@ -26,5 +26,15 @@ namespace Formularios
             frmStock.Show();
             this.Hide();
         }
+
+        private void btn_ventas_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_clientes_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

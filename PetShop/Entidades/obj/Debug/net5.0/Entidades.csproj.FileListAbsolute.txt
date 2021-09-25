@@ -3,3 +3,14 @@ C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Entidades\obj\Debug\net5
 C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
 C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
 C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Entidades\bin\Debug\net5.0\Entidades.exe
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Entidades\bin\Debug\net5.0\Entidades.runtimeconfig.json
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Entidades\bin\Debug\net5.0\Entidades.runtimeconfig.dev.json
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Entidades\obj\Debug\net5.0\Entidades.genruntimeconfig.cache

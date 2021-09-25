@@ -53,10 +53,11 @@ namespace Formularios
             this.btn_ventas.TabIndex = 1;
             this.btn_ventas.Text = "Ventas";
             this.btn_ventas.UseVisualStyleBackColor = true;
+            this.btn_ventas.Click += new System.EventHandler(this.btn_ventas_Click);
             // 
             // btn_empleados
             // 
-            this.btn_empleados.Location = new System.Drawing.Point(156, 199);
+            this.btn_empleados.Location = new System.Drawing.Point(156, 214);
             this.btn_empleados.Name = "btn_empleados";
             this.btn_empleados.Size = new System.Drawing.Size(255, 44);
             this.btn_empleados.TabIndex = 2;
@@ -65,12 +66,13 @@ namespace Formularios
             // 
             // btn_clientes
             // 
-            this.btn_clientes.Location = new System.Drawing.Point(156, 259);
+            this.btn_clientes.Location = new System.Drawing.Point(156, 300);
             this.btn_clientes.Name = "btn_clientes";
             this.btn_clientes.Size = new System.Drawing.Size(255, 44);
             this.btn_clientes.TabIndex = 3;
             this.btn_clientes.Text = "Clientes";
             this.btn_clientes.UseVisualStyleBackColor = true;
+            this.btn_clientes.Click += new System.EventHandler(this.btn_clientes_Click);
             // 
             // FrmPrincipal
             // 

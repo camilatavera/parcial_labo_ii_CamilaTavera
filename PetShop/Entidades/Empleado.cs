@@ -128,9 +128,9 @@ namespace Entidades
             return Negocio.Clientes;
         }
 
-        public Cliente AltaCliente(string nombre, string apellido, long telefono)
+        public Cliente AltaCliente(string nombre, string apellido, long telefono, DateTime fechaNacimiento, float plataDisponible)
         {
-            Cliente auxCliente = new Cliente(nombre, apellido, telefono);
+            Cliente auxCliente = new Cliente(nombre, apellido, telefono, fechaNacimiento, plataDisponible);
             Negocio.agregarCliente(auxCliente);
             return Negocio.getUltimoCliente();
         }

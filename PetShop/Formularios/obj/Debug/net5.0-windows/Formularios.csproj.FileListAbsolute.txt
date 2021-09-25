@@ -10,3 +10,5 @@ C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\ne
 C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfoInputs.cache
 C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfo.cs
 C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.CoreCompileInputs.cache
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\net5.0-windows\Formularios.FrmClientes.resources
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\net5.0-windows\Formularios.FrmPrincipalAdmin.resources

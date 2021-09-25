@@ -46,7 +46,7 @@ namespace Formularios
             // 
             // btn_realizarVenta
             // 
-            this.btn_realizarVenta.Location = new System.Drawing.Point(37, 26);
+            this.btn_realizarVenta.Location = new System.Drawing.Point(63, 26);
             this.btn_realizarVenta.Name = "btn_realizarVenta";
             this.btn_realizarVenta.Size = new System.Drawing.Size(236, 42);
             this.btn_realizarVenta.TabIndex = 1;
