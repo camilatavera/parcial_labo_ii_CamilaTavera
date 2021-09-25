@@ -1,0 +1,12 @@
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.AssemblyReference.cache
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\net5.0-windows\Formularios.FrmLogin.resources
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\net5.0-windows\Formularios.FrmPrincipal.resources
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\net5.0-windows\Formularios.FrmSeleccionarVenta.resources
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\net5.0-windows\Formularios.FrmStock.resources
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\net5.0-windows\Formularios.FrmVender.resources
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\net5.0-windows\Formularios.FrmVendiendo.resources
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.GenerateResource.cache
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\net5.0-windows\Formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfoInputs.cache
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfo.cs
+C:\PARCIAL_LABO_ii\parcial_labo_ii_CamilaTavera\PetShop\Formularios\obj\Debug\net5.0-windows\Formularios.csproj.CoreCompileInputs.cache
